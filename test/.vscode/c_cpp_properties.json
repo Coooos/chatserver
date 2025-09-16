@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/local/include/**",  // 包含本地安装的头文件
+                "/usr/include/c++/**",
+                "/usr/include/x86_64-linux-gnu/c++/**",
+                "/usr/include",
+                "/usr/lib/gcc/x86_64-linux-gnu/*/include/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/g++",  // 改为 g++
+            "cStandard": "c17",
+            "cppStandard": "c++17",          // 更新到较新标准
+            "intelliSenseMode": "linux-gcc-x64",
+            "configurationProvider": "ms-vscode.cmake-tools"
+        }
+    ],
+    "version": 4
+}
