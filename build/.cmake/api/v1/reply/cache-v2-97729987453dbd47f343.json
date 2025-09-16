@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/kuangjingmu/CHAT/build"
+			"value" : "/home/kuangjingmu/CHAT/chatserver/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -547,7 +547,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/kuangjingmu/CHAT/build/CMakeFiles/pkgRedirects"
+			"value" : "/home/kuangjingmu/CHAT/chatserver/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -607,7 +607,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/kuangjingmu/CHAT"
+			"value" : "/home/kuangjingmu/CHAT/chatserver"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1171,7 +1171,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/kuangjingmu/CHAT/build"
+			"value" : "/home/kuangjingmu/CHAT/chatserver/build"
 		},
 		{
 			"name" : "chat_IS_TOP_LEVEL",
@@ -1195,7 +1195,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/kuangjingmu/CHAT"
+			"value" : "/home/kuangjingmu/CHAT/chatserver"
 		}
 	],
 	"kind" : "cache",

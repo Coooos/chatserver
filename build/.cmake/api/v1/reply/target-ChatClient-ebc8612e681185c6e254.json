@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "/home/kuangjingmu/CHAT/bin/ChatClient"
+			"path" : "/home/kuangjingmu/CHAT/chatserver/bin/ChatClient"
 		}
 	],
 	"backtrace" : 1,
@@ -84,23 +84,23 @@
 			[
 				{
 					"backtrace" : 4,
-					"path" : "/home/kuangjingmu/CHAT/include"
+					"path" : "/home/kuangjingmu/CHAT/chatserver/include"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "/home/kuangjingmu/CHAT/include/server"
+					"path" : "/home/kuangjingmu/CHAT/chatserver/include/server"
 				},
 				{
 					"backtrace" : 6,
-					"path" : "/home/kuangjingmu/CHAT/include/server/db"
+					"path" : "/home/kuangjingmu/CHAT/chatserver/include/server/db"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/kuangjingmu/CHAT/include/server/model"
+					"path" : "/home/kuangjingmu/CHAT/chatserver/include/server/model"
 				},
 				{
 					"backtrace" : 8,
-					"path" : "/home/kuangjingmu/CHAT/thirdparty"
+					"path" : "/home/kuangjingmu/CHAT/chatserver/thirdparty"
 				}
 			],
 			"language" : "CXX",

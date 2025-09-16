@@ -89,14 +89,14 @@
 				{
 					"directoryIndex" : 3,
 					"id" : "ChatClient::@8ca63c80a879d0067daa",
-					"jsonFile" : "target-ChatClient-50c43f2c0373c704bab6.json",
+					"jsonFile" : "target-ChatClient-ebc8612e681185c6e254.json",
 					"name" : "ChatClient",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 2,
 					"id" : "ChatServer::@2804e40980a64c7d7ad1",
-					"jsonFile" : "target-ChatServer-ef97ed1c7f8981f61858.json",
+					"jsonFile" : "target-ChatServer-aa4562cdc1f789724c53.json",
 					"name" : "ChatServer",
 					"projectIndex" : 0
 				}
@@ -106,8 +106,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/kuangjingmu/CHAT/build",
-		"source" : "/home/kuangjingmu/CHAT"
+		"build" : "/home/kuangjingmu/CHAT/chatserver/build",
+		"source" : "/home/kuangjingmu/CHAT/chatserver"
 	},
 	"version" : 
 	{

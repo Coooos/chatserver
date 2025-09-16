@@ -777,8 +777,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/home/kuangjingmu/CHAT/build",
-		"source" : "/home/kuangjingmu/CHAT"
+		"build" : "/home/kuangjingmu/CHAT/chatserver/build",
+		"source" : "/home/kuangjingmu/CHAT/chatserver"
 	},
 	"version" : 
 	{
